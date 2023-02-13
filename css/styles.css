@@ -117,3 +117,11 @@ p {
     width: 15%;
     margin: 20px 20px 15px;
 }
+
+/* PRICING */
+.price-head{
+    text-align: center;
+}
+#pricing{
+    padding: 100px;
+}
