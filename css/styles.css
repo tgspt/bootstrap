@@ -125,3 +125,52 @@ p {
 #pricing{
     padding: 100px;
 }
+
+/* Call to action */
+#cta{
+background-color: #ff4c68;
+text-align: center;
+color: #fff;
+font-family: 'Montserrat-Black', sans-serif;
+padding: 100px 100px 50px 100px;
+}
+
+
+/* footer */
+
+#footer{
+    background-color: #fff;
+    text-align: center;
+    padding: 5% 5%;
+}
+.redes{
+    margin: 2% 1% 1% 1%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* MEDIA */
+@media  (max-width: 1020px){
+#title{
+    text-align: center;
+}
+
+
+
+}
+
